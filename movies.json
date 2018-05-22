@@ -1,0 +1,68 @@
+{
+  "movies": [
+    {
+      "skip": true,
+      "title": "Movie Title",
+      "year": "Release year",
+      "synopsis": "brief blub about the movie",
+      "poster_url": "uri to the movie poster image",
+      "preview_url": "youtube id for a preview"
+    },
+    {
+      "title": "The Blues Brothers",
+      "year": "1980",
+      "synopsis": "Jake Blues, just out from prison, puts together his old band to save the Catholic home where he and brother Elwood were raised.",
+      "poster_url": "https://cdn3.volusion.com/qpggq.ugjpw/v/vspfiles/photos/4564-2.jpg",
+      "preview_url": "2HCR4c1zPyk"
+    },
+    {
+      "title": "The Matrix",
+      "year": "1999",
+      "synopsis": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "poster_url": "https://images-na.ssl-images-amazon.com/images/I/51FhdGyJ6DL.jpg",
+      "preview_url": "Q8g9zL-JL8E"
+    },
+    {
+      "title": "Dead Man",
+      "year": "1995",
+      "synopsis": "On the run after murdering a man, accountant William Blake encounters a strange North American man named Nobody who prepares him for his journey into the spiritual world.",
+      "poster_url": "http://img.moviepostershop.com/dead-man-movie-poster-1996-1020190928.jpg",
+      "preview_url": "_64Qv0jV_PY"
+    },
+    {
+      "title": "Pulp Fiction",
+      "year": "1994",
+      "synopsis": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "poster_url": "https://images-na.ssl-images-amazon.com/images/I/51SKHxkZCNL.jpg",
+      "preview_url": "s7EdQ4FqbhY"
+    },
+    {
+      "title": "Apollo 13",
+      "year": "1995",
+      "synopsis": "NASA must devise a strategy to return Apollo 13 to Earth safely after the spacecraft undergoes massive internal damage putting the lives of the three astronauts on board in jeopardy.",
+      "poster_url": "http://img.moviepostershop.com/apollo-13-movie-poster-1995-1020190947.jpg",
+      "preview_url": "e3ZtOS4MCkk"
+    },
+    {
+      "title": "Metropolis",
+      "year": "1927",
+      "synopsis": "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working class prophet who predicts the coming of a savior to mediate their differences.",
+      "poster_url": "http://imgc.allpostersimages.com/img/posters/metropolis-german-movie-poster-1926_u-L-P99V9N0.jpg",
+      "preview_url": "GrFBId1b8U0"
+    },
+    {
+      "title": "Die Hard",
+      "year": "1988",
+      "synopsis": "John McClane, officer of the NYPD, tries to save his wife Holly Gennaro and several others that were taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+      "poster_url": "https://images-na.ssl-images-amazon.com/images/I/51l7e1ENZvL._SY450_.jpg",
+      "preview_url": "QAyUdx8ogkE"
+    },
+    {
+      "title": "Alien",
+      "year": "1979",
+      "synopsis": "After a space merchant vessel perceives an unknown transmission as a distress call, its landing on the source moon finds one of the crew attacked by a mysterious lifeform, and they soon realize that its life cycle has merely begun.",
+      "poster_url": "https://images-na.ssl-images-amazon.com/images/I/41VReP3cJoL.jpg",
+      "preview_url": "LjLamj-b0I8"
+    }
+  ]
+}

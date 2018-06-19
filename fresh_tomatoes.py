@@ -136,7 +136,11 @@ def create_movie_tiles_content(movies):
     """This function will create each entry for the movie in the page"""
     # The HTML content for this section of the page
     content = ''
-    for movie in movies:
+    for movie_key in movies:
+        # Since we have a list of objects, we can simply replace the movie
+        # variable with each instance of the object and the rest of the
+        # existing code will still work
+        movie = movies[movie_key]
         # Extract the youtube ID from the url
         youtube_id_match = re.search(
             r'(?<=v=)[^&#]+', movie.trailer_youtube_url)

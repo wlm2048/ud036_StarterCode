@@ -18,7 +18,11 @@ def load_movies():
 DATA = load_movies()
 MOVIES = {}
 
+# Iterate over each movie in the JSON, creating a Movie object from it
 for movie in DATA['movies']:
+    # Skip if the key skip is defined (currently used to hold a template)
+    if 'skip' in movie:
+        continue
     MOVIES[movie['title']] = media.Movie(
         movie['title'],
         movie['synopsis'],

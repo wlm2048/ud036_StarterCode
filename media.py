@@ -1,3 +1,4 @@
+""" This class (Movie) creates the Movie object containing the movie information """
 import webbrowser
 
 class Movie():
@@ -12,4 +13,5 @@ class Movie():
         self.trailer_youtube_url = trailer_youtube
 
     def show_trailer(self):
+        """ Open the web browser to show a trailer """
         webbrowser.open(self.trailer_youtube_url)
